@@ -38,6 +38,8 @@ watchTurorialCallback(
 
 - The above function can be replicated as a Promise.
 
+
+
 1. Declare a variable `watching` and assign it a new promise object
 2. Inside of the promise constructor, declare a variable named `userWatchingLiveStream`.
 3. Add a `if/else` conditional that checks if `userWatchingLiveStream` is true
